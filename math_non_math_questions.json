@@ -1,0 +1,2374 @@
+[
+    {
+        "text": "Length of boundary of a simple closed figure is known as perimeter.",
+        "label": 0
+    },
+    {
+        "text": "Area is the measure of region enclosed in a simple closed curve.",
+        "label": 0
+    },
+    {
+        "text": "Perimeter of a rectangle = 2(length + breadth).",
+        "label": 0
+    },
+    {
+        "text": "Area of a rectangle = length × breadth.",
+        "label": 0
+    },
+    {
+        "text": "Perimeter of a square = 4 × side.",
+        "label": 0
+    },
+    {
+        "text": "Area of a square = side × side.",
+        "label": 0
+    },
+    {
+        "text": "Area of a triangle = ½ × Base × Corresponding Height.",
+        "label": 0
+    },
+    {
+        "text": "Area of a parallelogram = Base × Corresponding Height.",
+        "label": 0
+    },
+    {
+        "text": "Area of a circle = πr^2, where r is the radius.",
+        "label": 0
+    },
+    {
+        "text": "Area of a trapezium = ½ × (Sum of parallel sides) × Height.",
+        "label": 0
+    },
+    {
+        "text": "Area of a rhombus = ½ × Product of diagonals.",
+        "label": 0
+    },
+    {
+        "text": "Lateral surface area of a cube = 4(side)^2.",
+        "label": 0
+    },
+    {
+        "text": "Total surface area of a cube = 6(side)^2.",
+        "label": 0
+    },
+    {
+        "text": "Lateral surface area of a cuboid = 2 × height × (length + breadth).",
+        "label": 0
+    },
+    {
+        "text": "Total surface area of a cuboid = 2(lb + bh + hl).",
+        "label": 0
+    },
+    {
+        "text": "Lateral (curved) surface area of a cylinder = 2πrh.",
+        "label": 0
+    },
+    {
+        "text": "Total surface area of a cylinder = 2πr(r + h), where r is the radius and h is the height.",
+        "label": 0
+    },
+    {
+        "text": "Amount of space occupied by a solid is called its volume.",
+        "label": 0
+    },
+    {
+        "text": "Volume of a cube = (side)^3.",
+        "label": 0
+    },
+    {
+        "text": "Volume of a cuboid = length × breadth × height.",
+        "label": 0
+    },
+    {
+        "text": "Volume of a cylinder = πr^2h.",
+        "label": 0
+    },
+    {
+        "text": "1 cm^3 = 1 ml.",
+        "label": 0
+    },
+    {
+        "text": "1 L = 1000 cm^3.",
+        "label": 0
+    },
+    {
+        "text": "1 m^3 = 10,00,000 cm^3 = 1,000 L.",
+        "label": 0
+    },
+    {
+        "text": "What is the area of the triangle ADE in the following figure?",
+        "label": 1
+    },
+    {
+        "text": "What will be the change in the volume of a cube when its side becomes 10 times the original side?",
+        "label": 1
+    },
+    {
+        "text": "Area of a rhombus is equal to ___ of its diagonals.",
+        "label": 1
+    },
+    {
+        "text": "If the area of a face of a cube is 10 cm^2, then the total surface area of the cube is ___",
+        "label": 1
+    },
+    {
+        "text": "1 L = 1000 cm^3.",
+        "label": 0
+    },
+    {
+        "text": "Amount of region occupied by a solid is called its surface area.",
+        "label": 0
+    },
+    {
+        "text": "160 m^3 of water is to be used to irrigate a rectangular field whose area is 800 m^2. What will be the height of the water level in the field?",
+        "label": 1
+    },
+    {
+        "text": "Find the area of a rhombus whose one side measures 5 cm and one diagonal as 8 cm.",
+        "label": 1
+    },
+    {
+        "text": "The parallel sides of a trapezium are 40 cm and 20 cm. If its non-parallel sides are both equal, each being 26 cm, find the area of the trapezium.",
+        "label": 1
+    },
+    {
+        "text": "The square root of a number is one of the two equal factors of the number.",
+        "label": 0
+    },
+    {
+        "text": "The word 'perimeter' comes from the Greek roots peri, meaning 'all around,' and metron, meaning 'measure.'",
+        "label": 0
+    },
+    {
+        "text": "How might picturing plant roots help you remember the meaning of square root?",
+        "label": 1
+    },
+    {
+        "text": "What do the Greek roots tell you about the perimeter of a geometric figure?",
+        "label": 1
+    },
+    {
+        "text": "The word 'circumference' comes from the Latin word circumferre, meaning to 'carry around'.",
+        "label": 0
+    },
+    {
+        "text": "How does the Latin meaning help you define the circumference of a circle?",
+        "label": 1
+    },
+    {
+        "text": "Find the area of polygon ABCDEF, if AD = 18 cm, AQ = 14 cm, AP = 12 cm, AN = 8 cm, AM = 4 cm, and FM, EP, QC and BN are perpendiculars to diagonal AD.",
+        "label": 1
+    },
+    {
+        "text": "Horse stable is in the form of a cuboid, whose external dimensions are 70 m × 35 m × 40 m, surrounded by a cylinder halved vertically through diameter 35 m and it is open from one rectangular face 70 m × 40 m. Find the cost of painting the exterior of the stable at the rate of Rs 2/m^2.",
+        "label": 1
+    },
+    {
+        "text": "What would be the cost of painting if cylindrical roof is not to be painted?",
+        "label": 1
+    },
+    {
+        "text": "What would be the cost if one face is not included?",
+        "label": 1
+    },
+    {
+        "text": "A cube is a three-dimensional solid with six square faces.",
+        "label": 0
+    },
+    {
+        "text": "A cube of side 5 cm is painted on all its faces. If it is sliced into 1 cubic centimetre cubes, how many 1 cubic centimetre cubes will have exactly one of their faces painted?",
+        "label": 1
+    },
+    {
+        "text": "A cube of side 4 cm is cut into 1 cm cubes. What is the ratio of the surface areas of the original cubes and cut-out cubes?",
+        "label": 1
+    },
+    {
+        "text": "A circle of maximum possible size is cut from a square sheet of board. Subsequently, a square of maximum possible size is cut from the resultant circle. What will be the area of the final square?",
+        "label": 1
+    },
+    {
+        "text": "What is the area of the largest triangle that can be fitted into a rectangle of length l units and width w units?",
+        "label": 1
+    },
+    {
+        "text": "If the height of a cylinder becomes ¼ of the original height and the radius is doubled, then which of the following will be true?",
+        "label": 1
+    },
+    {
+        "text": "The surface area of the three coterminus faces of a cuboid are 6, 15 and 10 cm^2 respectively. The volume of the cuboid is",
+        "label": 1
+    },
+    {
+        "text": "A regular hexagon is inscribed in a circle of radius r. The perimeter of the regular hexagon is",
+        "label": 1
+    },
+    {
+        "text": "The dimensions of a godown are 40 m, 25 m and 10 m. If it is filled with cuboidal boxes each of dimensions 2 m × 1.25 m × 1 m, then the number of boxes will be",
+        "label": 1
+    },
+    {
+        "text": "Explain how to find the total area of all the faces of a rectangular box.",
+        "label": 1
+    },
+    {
+        "text": "Explain how to find the number of identical cubes it will take to fill a rectangular box.",
+        "label": 1
+    },
+    {
+        "text": "Suppose several different nets are made for a given box. What do all of the nets have in common? What might be different?",
+        "label": 1
+    },
+    {
+        "text": "The area of a parallelogram is 60 cm^2 and one of its altitude is 5 cm. The length of its corresponding side is",
+        "label": 1
+    },
+    {
+        "text": "The perimeter of a trapezium is 52 cm and its each non-parallel side is equal to 10 cm with its height 8 cm. Its area is",
+        "label": 1
+    },
+    {
+        "text": "Area of a quadrilateral ABCD is 20 cm^2 and perpendiculars on BD from opposite vertices are 1 cm and 1.5 cm. The length of BD is",
+        "label": 1
+    },
+    {
+        "text": "A metal sheet 27 cm long, 8 cm broad and 1 cm thick is melted into a cube. The side of the cube is",
+        "label": 1
+    },
+    {
+        "text": "Three cubes of metal whose edges are 6 cm, 8 cm and 10 cm respectively are melted to form a single cube. The edge of the new cube is",
+        "label": 1
+    },
+    {
+        "text": "A covered wooden box has the inner measures as 115 cm, 75 cm and 35 cm and thickness of wood as 2.5 cm. The volume of the wood is",
+        "label": 1
+    },
+    {
+        "text": "The ratio of radii of two cylinders is 1:2 and heights are in the ratio 2:3. The ratio of their volumes is",
+        "label": 1
+    },
+    {
+        "text": "Two cubes have volumes in the ratio 1:64. The ratio of the area of a face of first cube to that of the other is",
+        "label": 1
+    },
+    {
+        "text": "The surface areas of the six faces of a rectangular solid are 16, 16, 32, 32, 72 and 72 square centimetres. The volume of the solid, in cubic centimetres, is",
+        "label": 1
+    },
+    {
+        "text": "Ramesh has three containers. (a) Cylindrical container A having radius r and height h, (b) Cylindrical container B having radius 2r and height 1/2 h, and (c) Cuboidal container C having dimensions r × r × h. The arrangement of the containers in the increasing order of their volumes is",
+        "label": 1
+    },
+    {
+        "text": "If R is the radius of the base of the hat, then the total outer surface area of the hat is",
+        "label": 1
+    },
+    {
+        "text": "A cube of side 4 cm is painted on all its sides. If it is sliced in 1 cubic cm cubes, then number of such cubes that will have exactly two of their faces painted is",
+        "label": 1
+    },
+    {
+        "text": "A cube of side 5 cm is cut into 1 cm cubes. The percentage increase in volume after such cutting is",
+        "label": 1
+    },
+    {
+        "text": "The surface area of a cuboid formed by joining two cubes of side a face to face is",
+        "label": 1
+    },
+    {
+        "text": "If the diagonals of a rhombus get doubled, then the area of the rhombus becomes ___ its original area.",
+        "label": 1
+    },
+    {
+        "text": "If a cube fits exactly in a cylinder with height h, then the volume of the cube is ___ and surface area of the cube is ___",
+        "label": 1
+    },
+    {
+        "text": "The volume of a cylinder becomes ___ the original volume if its radius becomes half of the original radius.",
+        "label": 1
+    },
+    {
+        "text": "The curved surface area of a cylinder is reduced by ___ per cent if the height is half of the original height.",
+        "label": 1
+    },
+    {
+        "text": "The volume of a cylinder which exactly fits in a cube of side a is",
+        "label": 1
+    },
+    {
+        "text": "The surface area of a cylinder which exactly fits in a cube of side b is",
+        "label": 1
+    },
+    {
+        "text": "If the diagonal d of a quadrilateral is doubled and the heights h1 and h2 falling on d are halved, then the area of quadrilateral is",
+        "label": 1
+    },
+    {
+        "text": "The perimeter of a rectangle becomes ___ times its original perimeter, if its length and breadth are doubled.",
+        "label": 1
+    },
+    {
+        "text": "A trapezium with 3 equal sides and one side double the equal side can be divided into ___ equilateral triangles of ___ area.",
+        "label": 1
+    },
+    {
+        "text": "All six faces of a cuboid are ___ in shape and of ___ area.",
+        "label": 1
+    },
+    {
+        "text": "Opposite faces of a cuboid are ___ in area.",
+        "label": 1
+    },
+    {
+        "text": "Curved surface area of a cylinder of radius h and height r is",
+        "label": 1
+    },
+    {
+        "text": "Total surface area of a cylinder of radius h and height r is",
+        "label": 1
+    },
+    {
+        "text": "Volume of a cylinder with radius h and height r is",
+        "label": 1
+    },
+    {
+        "text": "Area of a rhombus = ½ product of ___",
+        "label": 1
+    },
+    {
+        "text": "Two cylinders A and B are formed by folding a rectangular sheet of dimensions 20 cm × 10 cm along its length and also along its breadth respectively. Then volume of A is ___ of volume of B.",
+        "label": 1
+    },
+    {
+        "text": "In the above question, curved surface area of A is ___ curved surface area of B.",
+        "label": 1
+    },
+    {
+        "text": "___ of a solid is the measurement of the space occupied by it.",
+        "label": 1
+    },
+    {
+        "text": "___ surface area of room = area of 4 walls.",
+        "label": 1
+    },
+    {
+        "text": "Two cylinders of equal volume have heights in the ratio 1:9. The ratio of their radii is",
+        "label": 1
+    },
+    {
+        "text": "Two cylinders of same volume have their radii in the ratio 1:6, then ratio of their heights is",
+        "label": 1
+    },
+    {
+        "text": "The areas of any two faces of a cube are equal.",
+        "label": 0
+    },
+    {
+        "text": "The areas of any two faces of a cuboid are equal.",
+        "label": 0
+    },
+    {
+        "text": "The surface area of a cuboid formed by joining face to face 3 cubes of side x is 3 times the surface area of a cube of side x.",
+        "label": 0
+    },
+    {
+        "text": "Two cuboids with equal volumes will always have equal surface areas.",
+        "label": 0
+    },
+    {
+        "text": "The area of a trapezium become 4 times if its height gets doubled.",
+        "label": 0
+    },
+    {
+        "text": "A cube of side 3 cm painted on all its faces, when sliced into 1 cubic centimetre cubes, will have exactly 1 cube with none of its faces painted.",
+        "label": 0
+    },
+    {
+        "text": "Two cylinders with equal volume will always have equal surface areas.",
+        "label": 0
+    },
+    {
+        "text": "The surface area of a cube formed by cutting a cuboid of dimensions 2 × 1 × 1 in 2 equal parts is 2 sq. units.",
+        "label": 0
+    },
+    {
+        "text": "Ratio of area of a circle to the area of a square whose side equals radius of circle is 1:π.",
+        "label": 0
+    },
+    {
+        "text": "The area of a rectangular field is 48 m^2 and one of its sides is 6 m. How long will a lady take to cross the field diagonally at the rate of 20 m/minute?",
+        "label": 1
+    },
+    {
+        "text": "The circumference of the front wheel of a cart is 3 m long and that of the back wheel is 4 m long. What is the distance travelled by the cart, when the front wheel makes five more revolutions than the rear wheel?",
+        "label": 1
+    },
+    {
+        "text": "Four horses are tethered with equal ropes at 4 corners of a square field of side 70 metres so that they just can reach one another. Find the area left ungrazed by the horses.",
+        "label": 1
+    },
+    {
+        "text": "The walls and ceiling of a room are to be plastered. The length, breadth and height of the room are 4.5 m, 3 m, and 350 cm respectively. Find the cost of plastering at the rate of Rs 8 per m^2.",
+        "label": 1
+    },
+    {
+        "text": "Find the total area of each sail of the sail boats to the nearest tenth.",
+        "label": 1
+    },
+    {
+        "text": "The area of a trapezium with equal non-parallel sides is 168 m^2. If the lengths of the parallel sides are 36 m and 20 m, find the length of the non-parallel sides.",
+        "label": 1
+    },
+    {
+        "text": "Mukesh walks around a circular track of radius 14 m with a speed of 4 km/hr. If he takes 20 rounds of the track, for how long does he walk?",
+        "label": 1
+    },
+    {
+        "text": "The areas of two circles are in the ratio 49:64. Find the ratio of their circumferences.",
+        "label": 1
+    },
+    {
+        "text": "There is a circular pond and a footpath runs along its boundary. A person walks around it, exactly once keeping close to the edge. If his step is 66 cm long and he takes exactly 400 steps to go around the pond, find the diameter of the pond.",
+        "label": 1
+    },
+    {
+        "text": "A running track has 2 semicircular ends of radius 63 m and two straight lengths. The perimeter of the track is 1000 m. Find each straight length.",
+        "label": 1
+    },
+    {
+        "text": "Find the perimeter of the given figure.",
+        "label": 1
+    },
+    {
+        "text": "A bicycle wheel makes 500 revolutions in moving 1 km. Find the diameter of the wheel.",
+        "label": 1
+    },
+    {
+        "text": "A boy is cycling such that the wheels of the cycle are making 140 revolutions per hour. If the diameter of the wheel is 60 cm, calculate the speed in km/h with which the boy is cycling.",
+        "label": 1
+    },
+    {
+        "text": "Find the length of the largest pole that can be placed in a room of dimensions 12 m × 4 m × 3 m.",
+        "label": 1
+    },
+    {
+        "text": "Find the area of the following fields.",
+        "label": 1
+    },
+    {
+        "text": "Find the area of the shaded portion in the following figures.",
+        "label": 1
+    },
+    {
+        "text": "Find the volume of each of the given figure if volume = base area × height.",
+        "label": 1
+    },
+    {
+        "text": "A cube of side 5 cm is cut into as many 1 cm cubes as possible. What is the ratio of the surface area of the original cube to that of the sum of the surface areas of the smaller cubes?",
+        "label": 1
+    },
+    {
+        "text": "A square sheet of paper is converted into a cylinder by rolling it along its side. What is the ratio of the base radius to the side of the square?",
+        "label": 1
+    },
+    {
+        "text": "How many cubic metres of earth must be dug to construct a well 7 m deep and of diameter 2.8 m?",
+        "label": 1
+    },
+    {
+        "text": "The radius and height of a cylinder are in the ratio 3:2 and its volume is 19,404 cm^3. Find its radius and height.",
+        "label": 1
+    },
+    {
+        "text": "The thickness of a hollow metallic cylinder is 2 cm. It is 70 cm long with outer radius of 14 cm. Find the volume of the metal used in making the cylinder, assuming that it is open at both the ends. Also find its weight if the metal weighs 8 g per cm^3.",
+        "label": 1
+    },
+    {
+        "text": "Radius of a cylinder is r and the height is h. Find the change in the volume if the (a) height is doubled, (b) height is doubled and the radius is halved, (c) height remains same and the radius is halved.",
+        "label": 1
+    },
+    {
+        "text": "If the length of each edge of a cube is tripled, what will be the change in its volume?",
+        "label": 1
+    },
+    {
+        "text": "A carpenter makes a box which has a volume of 13,400 cm^3. The base has an area of 670 cm^2. What is the height of the box?",
+        "label": 1
+    },
+    {
+        "text": "A cuboidal tin box opened at the top has dimensions 20 cm × 16 cm × 14 cm. What is the total area of metal sheet required to make 10 such boxes?",
+        "label": 1
+    },
+    {
+        "text": "Find the capacity of water tank, in litres, whose dimensions are 4.2 m, 3 m and 1.8 m?",
+        "label": 1
+    },
+    {
+        "text": "How many cubes each of side 0.5 cm are required to build a cube of volume 8 cm^3?",
+        "label": 1
+    },
+    {
+        "text": "A wooden box (including the lid) has external dimensions 40 cm by 34 cm by 30 cm. If the wood is 1 cm thick, how many cm^3 of wood is used in it?",
+        "label": 1
+    },
+    {
+        "text": "A river 2 m deep and 45 m wide is flowing at the rate of 3 km per hour. Find the amount of water in cubic metres that runs into the sea per minute.",
+        "label": 1
+    },
+    {
+        "text": "Find the area to be painted in the following block with a cylindrical hole. Given that length is 15 cm, width 12 cm, height 20 cm and radius of the hole 2.8 cm.",
+        "label": 1
+    },
+    {
+        "text": "A truck carrying 7.8 m^3 concrete arrives at a job site. A platform of width 5 m and height 2 m is being constructed at the site. Find the length of the platform, constructed from the amount of concrete on the truck?",
+        "label": 1
+    },
+    {
+        "text": "A hollow garden roller of 42 cm diameter and length 152 cm is made of cast iron 2 cm thick. Find the volume of iron used in the roller.",
+        "label": 1
+    },
+    {
+        "text": "Three cubes each of side 10 cm are joined end to end. Find the surface area of the resultant figure.",
+        "label": 1
+    },
+    {
+        "text": "Below are the drawings of cross sections of two different pipes used to fill swimming pools. Figure A is a combination of 2 pipes each having a radius of 8 cm. Figure B is a pipe having a radius of 15 cm. If the force of the flow of water coming out of the pipes is the same in both the cases, which will fill the swimming pool faster?",
+        "label": 1
+    },
+    {
+        "text": "A swimming pool is 200 m by 50 m and has an average depth of 2 m. By the end of a summer day, the water level drops by 2 cm. How many cubic metres of water is lost on the day?",
+        "label": 1
+    },
+    {
+        "text": "A housing society consisting of 5,500 people needs 100 L of water per person per day. The cylindrical supply tank is 7 m high and has a diameter 10 m. For how many days will the water in the tank last for the society?",
+        "label": 1
+    },
+    {
+        "text": "Metallic discs of radius 0.75 cm and thickness 0.2 cm are melted to obtain 508.68 cm^3 of metal. Find the number of discs melted (use π=3.14).",
+        "label": 1
+    },
+    {
+        "text": "The ratio of the radius and height of a cylinder is 2:3. If its volume is 12,936 cm^3, find the total surface area of the cylinder.",
+        "label": 1
+    },
+    {
+        "text": "External dimensions of a closed wooden box are in the ratio 5:4:3. If the cost of painting its outer surface at the rate of Rs 5 per dm^2 is Rs 11,750, find the dimensions of the box.",
+        "label": 1
+    },
+    {
+        "text": "The capacity of a closed cylindrical vessel of height 1 m is 15.4 L. How many square metres of metal sheet would be needed to make it?",
+        "label": 1
+    },
+    {
+        "text": "What will happen to the volume of the cube, if its edge is (a) tripled (b) reduced to one-fourth?",
+        "label": 1
+    },
+    {
+        "text": "A rectangular sheet of dimensions 25 cm × 7 cm is rotated about its longer side. Find the volume and the whole surface area of the solid thus generated.",
+        "label": 1
+    },
+    {
+        "text": "From a pipe of inner radius 0.75 cm, water flows at the rate of 7 m per second. Find the volume in litres of water delivered by the pipe in 1 hour.",
+        "label": 1
+    },
+    {
+        "text": "Four times the area of the curved surface of a cylinder is equal to 6 times the sum of the areas of its bases. If its height is 12 cm, find its curved surface area.",
+        "label": 1
+    },
+    {
+        "text": "A cylindrical tank has a radius of 154 cm. It is filled with water to a height of 3 m. If water to a height of 4.5 m is poured into it, what will be the increase in the volume of water in kl?",
+        "label": 1
+    },
+    {
+        "text": "The length, breadth and height of a cuboidal reservoir is 7 m, 6 m and 15 m respectively. 8400 L of water is pumped out from the reservoir. Find the fall in the water level in the reservoir.",
+        "label": 1
+    },
+    {
+        "text": "How many bricks of size 22 cm × 10 cm × 7 cm are required to construct a wall 11 m long, 3.5 m high and 40 cm thick, if the cement and sand used in the construction occupy (1/10)^th part of the wall?",
+        "label": 1
+    },
+    {
+        "text": "A rectangular examination hall having seats for 500 candidates has to be built so as to allow 4 cubic metres of air and 0.5 square metres of floor area per candidate. If the length of hall be 25 m, find the height and breadth of the hall.",
+        "label": 1
+    },
+    {
+        "text": "The ratio between the curved surface area and the total surface area of a right circular cylinder is 1:2. Find the ratio between the height and radius of the cylinder.",
+        "label": 1
+    },
+    {
+        "text": "A birthday cake has two tiers as shown in the figure below. Find the volume of the cake.",
+        "label": 1
+    },
+    {
+        "text": "Work out the surface area of following shapes in questions 121 to 124 (use π=3.14).",
+        "label": 1
+    },
+    {
+        "text": "Water flows from a tank with a rectangular base measuring 80 cm by 70 cm into another tank with a square base of side 60 cm. If the water in the first tank is 45 cm deep, how deep will it be in the second tank?",
+        "label": 1
+    },
+    {
+        "text": "A rectangular sheet of paper is rolled in two different ways to form two different cylinders. Find the volume of cylinders in each case if the sheet measures 44 cm × 33 cm.",
+        "label": 1
+    },
+    {
+        "text": "What is the surface area of the pool?",
+        "label": 1
+    },
+    {
+        "text": "If Rashid plans to cover the bottom and sides of the pool with square tiles having side 25 cm, how many such tiles will be required?",
+        "label": 1
+    },
+    {
+        "text": "If each tile costs Rs 40, how much will be the total cost?",
+        "label": 1
+    },
+    {
+        "text": "A local digging company charges at the rate of Rs 150/- per cubic metre. How much Rashid has to pay for digging the swimming pool?",
+        "label": 1
+    },
+    {
+        "text": "The enclosed area represents 75% of another area on the geoboard. Use a geoboard or draw a diagram of a geoboard to represent 100% of the area.",
+        "label": 1
+    },
+    {
+        "text": "Given here are sketches of front, back, sides and roof of a kennel.",
+        "label": 0
+    },
+    {
+        "text": "Find the names of the solids from the given word maze whose areas or volumes are given below by colouring the boxes using the given colour code.",
+        "label": 1
+    },
+    {
+        "text": "Percent is derived from Latin word 'per centum' meaning 'per hundred'.",
+        "label": 0
+    },
+    {
+        "text": "Per cent is represented by the symbol % and means hundredths too.",
+        "label": 0
+    },
+    {
+        "text": "1% means 1 out of hundred or one hundredth.",
+        "label": 0
+    },
+    {
+        "text": "Rina made a table top of 100 different coloured tiles.",
+        "label": 0
+    },
+    {
+        "text": "Can you help her complete the table?",
+        "label": 1
+    },
+    {
+        "text": "Find the Percentage of children of different heights for the following data.",
+        "label": 1
+    },
+    {
+        "text": "Write this information in tabular form as done earlier and find the Percentage of each shoe size available in the shop.",
+        "label": 1
+    },
+    {
+        "text": "Percentages when total is not hundred.",
+        "label": 0
+    },
+    {
+        "text": "How do we calculate Percentage of an item if the total number of items do not add up to 100?",
+        "label": 1
+    },
+    {
+        "text": "Fill the table and find the percentage of chips of each colour.",
+        "label": 1
+    },
+    {
+        "text": "What is the percentage of bangles of each type? Can you put it in the tabular form as done in the above example?",
+        "label": 1
+    },
+    {
+        "text": "Look at the examples below and in each of them, discuss which is better for comparison.",
+        "label": 1
+    },
+    {
+        "text": "Can you eat 50% of a cake? Can you eat 100% of a cake? Can you eat 150% of a cake?",
+        "label": 1
+    },
+    {
+        "text": "Can a price of an item go up by 50%? Can a price of an item go up by 100%? Can a price of an item go up by 150%?",
+        "label": 1
+    },
+    {
+        "text": "Write 1/3 as percent.",
+        "label": 1
+    },
+    {
+        "text": "Out of 25 children in a class, 15 are girls. What is the percentage of girls?",
+        "label": 1
+    },
+    {
+        "text": "Convert 5/4 to per cent.",
+        "label": 1
+    },
+    {
+        "text": "Convert the given decimals to per cents: (a) 0.75 (b) 0.09 (c) 0.2",
+        "label": 1
+    },
+    {
+        "text": "Convert the following to per cents: (a) 12/16 (b) 3.5 (c) 49/50 (d) 2/2 (e) 0.05",
+        "label": 1
+    },
+    {
+        "text": "Out of 32 students, 8 are absent. What per cent of the students are absent?",
+        "label": 1
+    },
+    {
+        "text": "There are 25 radios, 16 of them are out of order. What per cent of radios are out of order?",
+        "label": 1
+    },
+    {
+        "text": "A shop has 500 items, out of which 5 are defective. What per cent are defective?",
+        "label": 1
+    },
+    {
+        "text": "There are 120 voters, 90 of them voted yes. What per cent voted yes?",
+        "label": 1
+    },
+    {
+        "text": "Parts always add to give a whole.",
+        "label": 0
+    },
+    {
+        "text": "35% + ___% = 100%, 64% + 20% + ___% = 100%, 45% = 100% - ___%, 70% = ___% - 30%",
+        "label": 1
+    },
+    {
+        "text": "If 65% of students in a class have a bicycle, what per cent of the student do not have bicycles?",
+        "label": 1
+    },
+    {
+        "text": "We have a basket full of apples, oranges and mangoes. If 50% are apples, 30% are oranges, then what per cent are mangoes?",
+        "label": 1
+    },
+    {
+        "text": "Consider the expenditure made on a dress 20% on embroidery, 50% on cloth, 30% on stitching.",
+        "label": 0
+    },
+    {
+        "text": "Can you think of more such examples?",
+        "label": 1
+    },
+    {
+        "text": "What per cent of the adjoining figure is shaded?",
+        "label": 1
+    },
+    {
+        "text": "What percent of these figures are shaded?",
+        "label": 1
+    },
+    {
+        "text": "A survey of 40 children showed that 25% liked playing football. How many children liked playing football?",
+        "label": 1
+    },
+    {
+        "text": "Rahul bought a sweater and saved ₹ 200 when a discount of 25% was given. What was the price of the sweater before the discount?",
+        "label": 1
+    },
+    {
+        "text": "9 is 25% of what number?",
+        "label": 1
+    },
+    {
+        "text": "75% of what number is 15?",
+        "label": 1
+    },
+    {
+        "text": "Convert the given fractional numbers to per cents: (a) 1/8 (b) 5/4 (c) 3/40 (d) 2/7",
+        "label": 1
+    },
+    {
+        "text": "Convert the given decimal fractions to per cents: (a) 0.65 (b) 2.1 (c) 0.02 (d) 12.35",
+        "label": 1
+    },
+    {
+        "text": "Estimate what part of the figures is coloured and hence find the per cent which is coloured.",
+        "label": 1
+    },
+    {
+        "text": "Find: (a) 15% of 250 (b) 1% of 1 hour (c) 20% of ₹ 2500 (d) 75% of 1 kg",
+        "label": 1
+    },
+    {
+        "text": "Find the whole quantity if (a) 5% of it is 600 (b) 12% of it is ₹ 1080 (c) 40% of it is 500 km (d) 70% of it is 14 minutes (e) 8% of it is 40 litres",
+        "label": 1
+    },
+    {
+        "text": "Convert given per cents to decimal fractions and also to fractions in simplest forms: (a) 25% (b) 150% (c) 20% (d) 5%",
+        "label": 1
+    },
+    {
+        "text": "In a city, 30% are females, 40% are males and remaining are children. What per cent are children?",
+        "label": 1
+    },
+    {
+        "text": "Out of 15,000 voters in a constituency, 60% voted. Find the percentage of voters who did not vote. Can you now find how many actually did not vote?",
+        "label": 1
+    },
+    {
+        "text": "Meeta saves ₹ 4000 from her salary. If this is 10% of her salary. What is her salary?",
+        "label": 1
+    },
+    {
+        "text": "A local cricket team played 20 matches in one season. It won 25% of them. How many matches did they win?",
+        "label": 1
+    },
+    {
+        "text": "Reena’s mother said, to make idlis, you must take two parts rice and one part urad dal. What percentage of such a mixture would be rice and what percentage would be urad dal?",
+        "label": 1
+    },
+    {
+        "text": "If ₹ 250 is to be divided amongst Ravi, Raju and Roy, so that Ravi gets two parts, Raju three parts and Roy five parts. How much money will each get? What will it be in percentages?",
+        "label": 1
+    },
+    {
+        "text": "Divide 15 sweets between Manu and Sonu so that they get 20% and 80% of them respectively.",
+        "label": 1
+    },
+    {
+        "text": "If angles of a triangle are in the ratio 2:3:4. Find the value of each angle.",
+        "label": 1
+    },
+    {
+        "text": "A school team won 6 games this year against 4 games won last year. What is the per cent increase?",
+        "label": 1
+    },
+    {
+        "text": "The number of illiterate persons in a country decreased from 150 lakhs to 100 lakhs in 10 years. What is the percentage of decrease?",
+        "label": 1
+    },
+    {
+        "text": "The buying price of any item is known as its cost price.",
+        "label": 0
+    },
+    {
+        "text": "If CP < SP then you made a profit = SP - CP.",
+        "label": 0
+    },
+    {
+        "text": "A shopkeeper bought a chair for ₹ 375 and sold it for ₹ 400. Find the gain Percentage.",
+        "label": 1
+    },
+    {
+        "text": "Cost of an item is ₹ 50. It was sold with a profit of 12%. Find the selling price.",
+        "label": 1
+    },
+    {
+        "text": "An article was sold for ₹ 250 with a profit of 5%. What was its cost price?",
+        "label": 1
+    },
+    {
+        "text": "An item was sold for ₹ 540 at a loss of 5%. What was its cost price?",
+        "label": 1
+    },
+    {
+        "text": "The money you borrow is known as sum borrowed or principal.",
+        "label": 0
+    },
+    {
+        "text": "Anita takes a loan of ₹ 5,000 at 15% per year as rate of interest. Find the interest she has to pay at the end of one year.",
+        "label": 1
+    },
+    {
+        "text": "₹ 10,000 is invested at 5% interest rate p.a. Find the interest at the end of one year.",
+        "label": 1
+    },
+    {
+        "text": "₹ 3,500 is given at 7% p.a. rate of interest. Find the interest which will be received at the end of two years.",
+        "label": 1
+    },
+    {
+        "text": "₹ 6,050 is borrowed at 6.5% rate of interest p.a.. Find the interest and the amount to be paid at the end of 3 years.",
+        "label": 1
+    },
+    {
+        "text": "₹ 7,000 is borrowed at 3.5% rate of interest p.a. borrowed for 2 years. Find the amount to be paid at the end of the second year.",
+        "label": 1
+    },
+    {
+        "text": "If Manohar pays an interest of ₹ 750 for 2 years on a sum of ₹ 4,500, find the rate of interest.",
+        "label": 1
+    },
+    {
+        "text": "You have ₹ 2,400 in your account and the interest rate is 5%. After how many years would you earn ₹ 240 as interest.",
+        "label": 1
+    },
+    {
+        "text": "On a certain sum the interest paid after 3 years is ₹ 450 at 5% rate of interest per annum. Find the sum.",
+        "label": 1
+    },
+    {
+        "text": "Tell what is the profit or loss in the following transactions. Also find profit per cent or loss per cent in each case.",
+        "label": 1
+    },
+    {
+        "text": "Convert each part of the ratio to percentage: (a) 3:1 (b) 2:3:5 (c) 1:4 (d) 1:2:5",
+        "label": 1
+    },
+    {
+        "text": "The population of a city decreased from 25,000 to 24,500. Find the percentage decrease.",
+        "label": 1
+    },
+    {
+        "text": "Arun bought a car for ₹ 3,50,000. The next year, the price went upto ₹ 3,70,000. What was the Percentage of price increase?",
+        "label": 1
+    },
+    {
+        "text": "I buy a T.V. for ₹ 10,000 and sell it at a profit of 20%. How much money do I get for it?",
+        "label": 1
+    },
+    {
+        "text": "Juhi sells a washing machine for ₹ 13,500. She loses 20% in the bargain. What was the price at which she bought it?",
+        "label": 1
+    },
+    {
+        "text": "Chalk contains calcium, carbon and oxygen in the ratio 10:3:12. Find the percentage of carbon in chalk.",
+        "label": 1
+    },
+    {
+        "text": "If in a stick of chalk, carbon is 3g, what is the weight of the chalk stick?",
+        "label": 1
+    },
+    {
+        "text": "Amina buys a book for ₹ 275 and sells it at a loss of 15%. How much does she sell it for?",
+        "label": 1
+    },
+    {
+        "text": "Find the amount to be paid at the end of 3 years in each case: (a) Principal = ₹ 1,200 at 12% p.a. (b) Principal = ₹ 7,500 at 5% p.a.",
+        "label": 1
+    },
+    {
+        "text": "What rate gives ₹ 280 as interest on a sum of ₹ 56,000 in 2 years?",
+        "label": 1
+    },
+    {
+        "text": "If Meena gives an interest of ₹ 45 for one year at 9% rate p.a.. What is the sum she has borrowed?",
+        "label": 1
+    },
+    {
+        "text": "A way of comparing quantities is percentage.",
+        "label": 0
+    },
+    {
+        "text": "Percentages are numerators of fractions with denominator 100.",
+        "label": 0
+    },
+    {
+        "text": "Per cent means per hundred.",
+        "label": 0
+    },
+    {
+        "text": "Fractions can be converted to percentages and vice-versa.",
+        "label": 0
+    },
+    {
+        "text": "Decimals too can be converted to percentages and vice-versa.",
+        "label": 0
+    },
+    {
+        "text": "The sum of interior angles of a triangle is always 180°.",
+        "label": 0
+    },
+    {
+        "text": "An equilateral triangle has all three sides equal and all angles equal to 60°.",
+        "label": 0
+    },
+    {
+        "text": "In a right triangle, the square of the hypotenuse equals the sum of squares of other two sides (Pythagoras theorem).",
+        "label": 0
+    },
+    {
+        "text": "The sum of interior angles of a quadrilateral is 360°.",
+        "label": 0
+    },
+    {
+        "text": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.",
+        "label": 0
+    },
+    {
+        "text": "The LCM of two numbers × HCF of two numbers = Product of the two numbers.",
+        "label": 0
+    },
+    {
+        "text": "Simple interest = (Principal × Rate × Time) / 100.",
+        "label": 0
+    },
+    {
+        "text": "Compound interest = P(1 + r/100)^n - P, where P is principal, r is rate, n is time.",
+        "label": 0
+    },
+    {
+        "text": "Speed = Distance / Time.",
+        "label": 0
+    },
+    {
+        "text": "Average = Sum of observations / Number of observations.",
+        "label": 0
+    },
+    {
+        "text": "The diagonals of a rectangle are equal in length.",
+        "label": 0
+    },
+    {
+        "text": "The diagonals of a rhombus bisect each other at right angles.",
+        "label": 0
+    },
+    {
+        "text": "Circumference of a circle = 2πr, where r is the radius.",
+        "label": 0
+    },
+    {
+        "text": "The exterior angle of a triangle equals the sum of two opposite interior angles.",
+        "label": 0
+    },
+    {
+        "text": "In similar triangles, corresponding sides are proportional.",
+        "label": 0
+    },
+    {
+        "text": "The angle subtended by an arc at the center is twice the angle subtended by the same arc at any point on the circle.",
+        "label": 0
+    },
+    {
+        "text": "Surface area of a sphere = 4πr².",
+        "label": 0
+    },
+    {
+        "text": "Volume of a sphere = (4/3)πr³.",
+        "label": 0
+    },
+    {
+        "text": "Volume of a cone = (1/3)πr²h.",
+        "label": 0
+    },
+    {
+        "text": "Curved surface area of a cone = πrl, where l is the slant height.",
+        "label": 0
+    },
+    {
+        "text": "Find the area of a triangle with sides 3 cm, 4 cm, and 5 cm using Heron's formula.",
+        "label": 1
+    },
+    {
+        "text": "If the radius of a circle is doubled, by what factor does its area increase?",
+        "label": 1
+    },
+    {
+        "text": "What is the HCF of 48 and 72?",
+        "label": 1
+    },
+    {
+        "text": "Find the LCM of 12, 15, and 20.",
+        "label": 1
+    },
+    {
+        "text": "A train travels 240 km in 4 hours. What is its speed in km/h?",
+        "label": 1
+    },
+    {
+        "text": "Find the compound interest on ₹5000 for 2 years at 10% per annum.",
+        "label": 1
+    },
+    {
+        "text": "In a class of 40 students, 25 are boys. What percentage are girls?",
+        "label": 1
+    },
+    {
+        "text": "The ages of 5 children are 8, 10, 12, 14, and 16 years. Find their average age.",
+        "label": 1
+    },
+    {
+        "text": "Find the diagonal of a rectangle with length 12 cm and breadth 9 cm.",
+        "label": 1
+    },
+    {
+        "text": "What is the area of a triangle with base 8 cm and height 6 cm?",
+        "label": 1
+    },
+    {
+        "text": "A circular garden has a radius of 7 meters. Find its circumference.",
+        "label": 1
+    },
+    {
+        "text": "If one angle of a triangle is 90° and another is 30°, what is the third angle?",
+        "label": 1
+    },
+    {
+        "text": "Find the volume of a sphere with radius 3 cm.",
+        "label": 1
+    },
+    {
+        "text": "What is the surface area of a cube with side length 4 cm?",
+        "label": 1
+    },
+    {
+        "text": "A cone has a base radius of 5 cm and height of 12 cm. Find its volume.",
+        "label": 1
+    },
+    {
+        "text": "The sum of three consecutive integers is 48. Find the integers.",
+        "label": 1
+    },
+    {
+        "text": "What is the area of a sector of a circle with radius 10 cm and central angle 60°?",
+        "label": 1
+    },
+    {
+        "text": "A rectangular tank is 8 m long, 6 m wide, and 4 m high. How much water can it hold?",
+        "label": 1
+    },
+    {
+        "text": "Find the slant height of a cone with base radius 8 cm and height 15 cm.",
+        "label": 1
+    },
+    {
+        "text": "If the cost price of an article is ₹800 and it is sold at 25% profit, find the selling price.",
+        "label": 1
+    },
+    {
+        "text": "What is the area of a rhombus with diagonals 16 cm and 12 cm?",
+        "label": 1
+    },
+    {
+        "text": "Find the number of sides of a polygon if each interior angle is 144°.",
+        "label": 1
+    },
+    {
+        "text": "A cylinder has radius 7 cm and height 10 cm. Find its total surface area.",
+        "label": 1
+    },
+    {
+        "text": "If the perimeter of a square is 24 cm, what is its area?",
+        "label": 1
+    },
+    {
+        "text": "Find the distance between points A(3, 4) and B(6, 8).",
+        "label": 1
+    },
+    {
+        "text": "What is the median of the numbers: 5, 8, 12, 15, 20?",
+        "label": 1
+    },
+    {
+        "text": "A cuboid has dimensions 10 cm × 8 cm × 6 cm. Find its total surface area.",
+        "label": 1
+    },
+    {
+        "text": "If sin θ = 3/5, find cos θ (assuming θ is acute).",
+        "label": 1
+    },
+    {
+        "text": "Find the area of a trapezium with parallel sides 12 cm and 8 cm, and height 5 cm.",
+        "label": 1
+    },
+    {
+        "text": "Find the diagonal of a rectangle with length 12 cm and breadth 9 cm.",
+        "label": 1
+    },
+    {
+        "text": "What is the area of a triangle with base 8 cm and height 6 cm?",
+        "label": 1
+    },
+    {
+        "text": "A circular garden has a radius of 7 meters. Find its circumference.",
+        "label": 1
+    },
+    {
+        "text": "If one angle of a triangle is 90° and another is 30°, what is the third angle?",
+        "label": 1
+    },
+    {
+        "text": "Find the volume of a sphere with radius 3 cm.",
+        "label": 1
+    },
+    {
+        "text": "What is the surface area of a cube with side length 4 cm?",
+        "label": 1
+    },
+    {
+        "text": "A cone has a base radius of 5 cm and height of 12 cm. Find its volume.",
+        "label": 1
+    },
+    {
+        "text": "The sum of three consecutive integers is 48. Find the integers.",
+        "label": 1
+    },
+    {
+        "text": "If 3x + 5 = 20, find the value of x.",
+        "label": 1
+    },
+    {
+        "text": "Find the perimeter of a regular hexagon with side length 6 cm.",
+        "label": 1
+    },
+    {
+        "text": "What is the area of a sector of a circle with radius 10 cm and central angle 60°?",
+        "label": 1
+    },
+    {
+        "text": "A rectangular tank is 8 m long, 6 m wide, and 4 m high. How much water can it hold?",
+        "label": 1
+    },
+    {
+        "text": "Find the slant height of a cone with base radius 8 cm and height 15 cm.",
+        "label": 1
+    },
+    {
+        "text": "If the cost price of an article is ₹800 and it is sold at 25% profit, find the selling price.",
+        "label": 1
+    },
+    {
+        "text": "What is the area of a rhombus with diagonals 16 cm and 12 cm?",
+        "label": 1
+    },
+    {
+        "text": "Find the number of sides of a polygon if each interior angle is 144°.",
+        "label": 1
+    },
+    {
+        "text": "A cylinder has radius 7 cm and height 10 cm. Find its total surface area.",
+        "label": 1
+    },
+    {
+        "text": "If the perimeter of a square is 24 cm, what is its area?",
+        "label": 1
+    },
+    {
+        "text": "Find the distance between points A(3, 4) and B(6, 8).",
+        "label": 1
+    },
+    {
+        "text": "What is the median of the numbers: 5, 8, 12, 15, 20?",
+        "label": 1
+    },
+    {
+        "text": "A cuboid has dimensions 10 cm × 8 cm × 6 cm. Find its total surface area.",
+        "label": 1
+    },
+    {
+        "text": "If sin θ = 3/5, find cos θ (assuming θ is acute).",
+        "label": 1
+    },
+    {
+        "text": "Find the area of a trapezium with parallel sides 12 cm and 8 cm, and height 5 cm.",
+        "label": 1
+    },
+    {
+        "text": "The weather today is quite pleasant with mild temperatures.",
+        "label": 0
+    },
+    {
+        "text": "I really enjoyed the movie last night, it had great special effects.",
+        "label": 0
+    },
+    {
+        "text": "Calculate the compound interest on ₹5000 at 8% per annum for 3 years.",
+        "label": 1
+    },
+    {
+        "text": "My favorite color is blue because it reminds me of the ocean.",
+        "label": 0
+    },
+    {
+        "text": "Find the probability of getting a sum of 7 when two dice are thrown.",
+        "label": 1
+    },
+    {
+        "text": "The new restaurant in town serves excellent Italian food.",
+        "label": 0
+    },
+    {
+        "text": "What is the value of log₂ 64?",
+        "label": 1
+    },
+    {
+        "text": "I need to buy groceries and pick up my dry cleaning today.",
+        "label": 0
+    },
+    {
+        "text": "A train travels 240 km in 4 hours. What is its average speed?",
+        "label": 1
+    },
+    {
+        "text": "The concert was amazing, the band played all their hit songs.",
+        "label": 0
+    },
+    {
+        "text": "Find the roots of the quadratic equation x² - 5x + 6 = 0.",
+        "label": 1
+    },
+    {
+        "text": "I prefer reading mystery novels over romance books.",
+        "label": 0
+    },
+    {
+        "text": "What is the area of an equilateral triangle with side length 12 cm?",
+        "label": 1
+    },
+    {
+        "text": "The traffic was terrible this morning due to road construction.",
+        "label": 0
+    },
+    {
+        "text": "If 2ˣ = 32, find the value of x.",
+        "label": 1
+    },
+    {
+        "text": "My garden has beautiful roses that bloom every spring.",
+        "label": 0
+    },
+    {
+        "text": "Find the LCM of 18, 24, and 36.",
+        "label": 1
+    },
+    {
+        "text": "The coffee shop around the corner makes the best cappuccinos.",
+        "label": 0
+    },
+    {
+        "text": "A rectangle has length 15 cm and area 180 cm². Find its breadth.",
+        "label": 1
+    },
+    {
+        "text": "I'm planning to visit my grandparents next weekend.",
+        "label": 0
+    },
+    {
+        "text": "What is the sum of the first 20 natural numbers?",
+        "label": 1
+    },
+    {
+        "text": "The sunset looks particularly beautiful from my balcony.",
+        "label": 0
+    },
+    {
+        "text": "Find the height of a triangle with base 14 cm and area 84 cm².",
+        "label": 1
+    },
+    {
+        "text": "Find the derivative of f(x) = 3x² + 5x - 7.",
+        "label": 1
+    },
+    {
+        "text": "What is the derivative of sin(x) with respect to x?",
+        "label": 1
+    },
+    {
+        "text": "Differentiate y = e^(2x) with respect to x.",
+        "label": 1
+    },
+    {
+        "text": "Find dy/dx if y = ln(x³ + 2x).",
+        "label": 1
+    },
+    {
+        "text": "What is the derivative of f(x) = x⁴ - 2x³ + 5x²?",
+        "label": 1
+    },
+    {
+        "text": "Differentiate y = cos(3x) using chain rule.",
+        "label": 1
+    },
+    {
+        "text": "Find the second derivative of f(x) = x⁵ - 3x² + 1.",
+        "label": 1
+    },
+    {
+        "text": "What is the derivative of tan(x)?",
+        "label": 1
+    },
+    {
+        "text": "Differentiate f(x) = (2x + 1)³ using chain rule.",
+        "label": 1
+    },
+    {
+        "text": "Find dy/dx if y = x²sin(x) using product rule.",
+        "label": 1
+    },
+    {
+        "text": "What is the derivative of f(x) = x/ln(x)?",
+        "label": 1
+    },
+    {
+        "text": "Differentiate y = √(x² + 1) with respect to x.",
+        "label": 1
+    },
+    {
+        "text": "My dog loves to play fetch in the park every evening.",
+        "label": 0
+    },
+    {
+        "text": "The new smartphone model has impressive camera features.",
+        "label": 0
+    },
+    {
+        "text": "I'm thinking of redecorating my living room with modern furniture.",
+        "label": 0
+    },
+    {
+        "text": "The local bakery makes the most delicious chocolate croissants.",
+        "label": 0
+    },
+    {
+        "text": "Swimming is my favorite form of exercise during summer.",
+        "label": 0
+    },
+    {
+        "text": "The history museum has a fascinating exhibit on ancient civilizations.",
+        "label": 0
+    },
+    {
+        "text": "I enjoy listening to jazz music while working from home.",
+        "label": 0
+    },
+    {
+        "text": "The mountain hiking trail offers breathtaking views of the valley.",
+        "label": 0
+    },
+    {
+        "text": "My sister is learning to play the piano and practices daily.",
+        "label": 0
+    },
+    {
+        "text": "The new shopping mall has opened with many international brands.",
+        "label": 0
+    },
+    {
+        "text": "I prefer autumn because of the beautiful changing colors of leaves.",
+        "label": 0
+    },
+    {
+        "text": "The documentary about marine life was both educational and entertaining.",
+        "label": 0
+    },
+    {
+        "text": "My grandmother's homemade apple pie recipe is a family treasure.",
+        "label": 0
+    },
+    {
+        "text": "The city's public transportation system has improved significantly.",
+        "label": 0
+    },
+    {
+        "text": "I'm planning to start a small herb garden on my balcony.",
+        "label": 0
+    },
+    {
+        "text": "The art gallery's contemporary exhibition features local artists.",
+        "label": 0
+    },
+    {
+        "text": "My favorite season for outdoor activities is definitely spring.",
+        "label": 0
+    },
+    {
+        "text": "The new yoga studio offers various classes for different skill levels.",
+        "label": 0
+    },
+    {
+        "text": "I find reading before bedtime helps me relax and sleep better.",
+        "label": 0
+    },
+    {
+        "text": "The neighborhood children love playing cricket in the empty lot.",
+        "label": 0
+    },
+    {
+        "text": "My car needs servicing, the engine has been making strange noises.",
+        "label": 0
+    },
+    {
+        "text": "The local farmers market has fresh organic vegetables every Saturday.",
+        "label": 0
+    },
+    {
+        "text": "I'm considering adopting a cat from the animal shelter.",
+        "label": 0
+    },
+    {
+        "text": "The beach vacation was relaxing, we spent hours just watching the waves.",
+        "label": 0
+    },
+    {
+        "text": "My neighbor has a beautiful garden with colorful flowers blooming year-round.",
+        "label": 0
+    },
+    {
+        "text": "The cooking class taught me how to make authentic Italian pasta.",
+        "label": 0
+    },
+    {
+        "text": "I enjoy photography as a hobby, especially capturing nature scenes.",
+        "label": 0
+    },
+    {
+        "text": "The old bookstore downtown has rare vintage books and manuscripts.",
+        "label": 0
+    },
+    {
+        "text": "My morning routine includes meditation and a cup of green tea.",
+        "label": 0
+    },
+    {
+        "text": "The children's playground has been renovated with new safety equipment.",
+        "label": 0
+    },
+    {
+        "text": "The sky appears blue due to a phenomenon called Rayleigh scattering.",
+        "label": 0
+    },
+    {
+        "text": "Solve the inequality: 3x - 5 > 10.",
+        "label": 1
+    },
+    {
+        "text": "Reading books can expand one's vocabulary and understanding of the world.",
+        "label": 0
+    },
+    {
+        "text": "If a car travels at 60 km/h for 3 hours, what distance does it cover?",
+        "label": 1
+    },
+    {
+        "text": "Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to create their own food.",
+        "label": 0
+    },
+    {
+        "text": "What is the next number in the sequence: 2, 5, 10, 17, 26, ...?",
+        "label": 1
+    },
+    {
+        "text": "Mount Everest is the highest mountain above sea level.",
+        "label": 0
+    },
+    {
+        "text": "Find the value of log₁₀(1000).",
+        "label": 1
+    },
+    {
+        "text": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+        "label": 0
+    },
+    {
+        "text": "If the sum of two numbers is 30 and their difference is 6, what are the numbers?",
+        "label": 1
+    },
+    {
+        "text": "Water is composed of hydrogen and oxygen atoms.",
+        "label": 0
+    },
+    {
+        "text": "Calculate the area of an ellipse with semi-major axis of 5 units and semi-minor axis of 3 units. (Area = πab)",
+        "label": 1
+    },
+    {
+        "text": "Learning a musical instrument requires dedication and practice.",
+        "label": 0
+    },
+    {
+        "text": "What is the mode of the following dataset: [1, 2, 2, 3, 4, 4, 4, 5]?",
+        "label": 1
+    },
+    {
+        "text": "The Great Wall of China is one of the most iconic man-made structures.",
+        "label": 0
+    },
+    {
+        "text": "If a mixture contains milk and water in the ratio 5:2, and the total volume is 35 litres, how much milk is in the mixture?",
+        "label": 1
+    },
+    {
+        "text": "Honey never spoils due to its low water content and acidic pH.",
+        "label": 0
+    },
+    {
+        "text": "Find the determinant of the matrix [[2, 3], [1, 4]].",
+        "label": 1
+    },
+    {
+        "text": "The human body has 206 bones in adulthood.",
+        "label": 0
+    },
+    {
+        "text": "What is the value of 7 factorial (7!)?",
+        "label": 1
+    },
+    {
+        "text": "Cooking can be a creative and relaxing activity.",
+        "label": 0
+    },
+    {
+        "text": "If P(A) = 0.6 and P(B) = 0.3, and A and B are independent events, what is P(A and B)?",
+        "label": 1
+    },
+    {
+        "text": "The Amazon rainforest produces a significant portion of the Earth's oxygen.",
+        "label": 0
+    },
+    {
+        "text": "Simplify the expression: (x^2 - 4) / (x - 2).",
+        "label": 1
+    },
+    {
+        "text": "Keeping a journal can be helpful for self-reflection.",
+        "label": 0
+    },
+    {
+        "text": "What is the angle between the hour and minute hand of a clock at 3:30?",
+        "label": 1
+    },
+    {
+        "text": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+        "label": 0
+    },
+    {
+        "text": "If an investment of ₹1000 earns 5% simple interest per year, what is the total amount after 4 years?",
+        "label": 1
+    },
+    {
+        "text": "Volunteering in the community can be a fulfilling experience.",
+        "label": 0
+    },
+    {
+        "text": "Find the roots of the polynomial x³ - x = 0.",
+        "label": 1
+    },
+    {
+        "text": "The anaconda is one of the world's largest snakes.",
+        "label": 0
+    },
+    {
+        "text": "What is the integral of 1/x with respect to x?",
+        "label": 1
+    },
+    {
+        "text": "The International Space Station orbits the Earth at an altitude of about 400 kilometers.",
+        "label": 0
+    },
+    {
+        "text": "A bag contains 3 red balls and 5 blue balls. What is the probability of picking a red ball?",
+        "label": 1
+    },
+    {
+        "text": "Yoga combines physical postures, breathing techniques, and meditation.",
+        "label": 0
+    },
+    {
+        "text": "If the perimeter of an isosceles triangle is 50 cm and the length of its unequal side is 10 cm, find the length of one of the equal sides.",
+        "label": 1
+    },
+    {
+        "text": "Antarctica is the coldest, driest, and windiest continent.",
+        "label": 0
+    },
+    {
+        "text": "What is the sine of 90 degrees?",
+        "label": 1
+    },
+    {
+        "text": "Recycling helps reduce waste and conserve natural resources.",
+        "label": 0
+    },
+    {
+        "text": "How many diagonals does a regular octagon have?",
+        "label": 1
+    },
+    {
+        "text": "The currency of Japan is the Yen.",
+        "label": 0
+    },
+    {
+        "text": "If f(x) = 2x + 3 and g(x) = x - 1, what is f(g(2))?",
+        "label": 1
+    },
+    {
+        "text": "Spiders are arachnids, not insects.",
+        "label": 0
+    },
+    {
+        "text": "A number is chosen at random from 1 to 20. What is the probability that it is a prime number?",
+        "label": 1
+    },
+    {
+        "text": "Music has the power to evoke strong emotions.",
+        "label": 0
+    },
+    {
+        "text": "Find the equation of a circle with center (0,0) and radius 5.",
+        "label": 1
+    },
+    {
+        "text": "The longest river in the world is often debated between the Nile and the Amazon.",
+        "label": 0
+    },
+    {
+        "text": "What is the dot product of vectors A = [1, 2, 3] and B = [4, 5, 6]?",
+        "label": 1
+    },
+    {
+        "text": "Penguins are flightless birds found predominantly in the Southern Hemisphere.",
+        "label": 0
+    },
+    {
+        "text": "If two angles of a triangle are 45° and 60°, what is the third angle?",
+        "label": 1
+    },
+    {
+        "text": "Regular dental check-ups are important for oral health.",
+        "label": 0
+    },
+    {
+        "text": "Find the surface area of a sphere with radius 'r'. (You don't need to calculate, just state the formula)",
+        "label": 1
+    },
+    {
+        "text": "The study of earthquakes is called seismology.",
+        "label": 0
+    },
+    {
+        "text": "A recipe calls for 2 cups of flour to make 12 cookies. How much flour is needed for 30 cookies?",
+        "label": 1
+    },
+    {
+        "text": "Venus is the hottest planet in our solar system, despite Mercury being closer to the Sun.",
+        "label": 0
+    },
+    {
+        "text": "Convert 120 degrees to radians.",
+        "label": 1
+    },
+    {
+        "text": "Many famous artists were not appreciated during their lifetimes.",
+        "label": 0
+    },
+    {
+        "text": "What is the derivative of ln(cos(x))?",
+        "label": 1
+    },
+    {
+        "text": "The process of a liquid turning into a gas is called evaporation.",
+        "label": 0
+    },
+    {
+        "text": "A cone has a base radius of 3 cm and a height of 4 cm. What is its slant height?",
+        "label": 1
+    },
+    {
+        "text": "The Colosseum in Rome is an ancient amphitheater.",
+        "label": 0
+    },
+    {
+        "text": "If a train covers 300 km in 5 hours, what is its average speed in m/s?",
+        "label": 1
+    },
+    {
+        "text": "Learning to code can open up many career opportunities.",
+        "label": 0
+    },
+    {
+        "text": "What is the value of e^(ln(5))?",
+        "label": 1
+    },
+    {
+        "text": "Honeybees communicate through a series of movements known as the 'waggle dance'.",
+        "label": 0
+    },
+    {
+        "text": "Find the median of the numbers: 7, 2, 10, 5, 2, 9, 11.",
+        "label": 1
+    },
+    {
+        "text": "The Northern Lights, or Aurora Borealis, are a natural light display in the sky.",
+        "label": 0
+    },
+    {
+        "text": "If sin(x) = 0.8 and x is an acute angle, what is the approximate value of tan(x)?",
+        "label": 1
+    },
+    {
+        "text": "Coffee is one of the most widely consumed beverages in the world.",
+        "label": 0
+    },
+    {
+        "text": "A shop offers a 20% discount on an item priced at ₹550. What is the sale price?",
+        "label": 1
+    },
+    {
+        "text": "The concept of zero was developed in ancient India.",
+        "label": 0
+    },
+    {
+        "text": "What is the derivative of x^n with respect to x?",
+        "label": 1
+    },
+    {
+        "text": "Maintaining a balanced diet is crucial for good health.",
+        "label": 0
+    },
+    {
+        "text": "If the area of a square is 144 cm², what is the length of its diagonal?",
+        "label": 1
+    },
+    {
+        "text": "The Dead Sea is known for its high salt concentration, allowing people to float easily.",
+        "label": 0
+    },
+    {
+        "text": "Three friends share 45 sweets in the ratio 2:3:4. How many sweets does the friend with the largest share get?",
+        "label": 1
+    },
+    {
+        "text": "Leonardo da Vinci was a polymath, excelling in various fields including art and science.",
+        "label": 0
+    },
+    {
+        "text": "Solve for y: (y/3) + 2 = 7.",
+        "label": 1
+    },
+    {
+        "text": "Bats are the only mammals capable of sustained flight.",
+        "label": 0
+    },
+    {
+        "text": "What is the probability of drawing an ace from a standard 52-card deck?",
+        "label": 1
+    },
+    {
+        "text": "Gardening can be a therapeutic and rewarding hobby.",
+        "label": 0
+    },
+    {
+        "text": "If a regular pentagon has a side length of 10 cm, what is its perimeter?",
+        "label": 1
+    },
+    {
+        "text": "The human brain continues to develop well into early adulthood.",
+        "label": 0
+    },
+    {
+        "text": "Simplify the algebraic expression: 3(x + 2y) - (2x - y).",
+        "label": 1
+    },
+    {
+        "text": "The art of origami involves folding paper to create various shapes.",
+        "label": 0
+    },
+    {
+        "text": "What is the sum of the interior angles of a hexagon?",
+        "label": 1
+    },
+    {
+        "text": "Climate change is a significant global challenge.",
+        "label": 0
+    },
+    {
+        "text": "If a coin is tossed three times, what is the probability of getting exactly two heads?",
+        "label": 1
+    },
+    {
+        "text": "Many languages have evolved from common ancestral roots.",
+        "label": 0
+    },
+    {
+        "text": "A right-angled triangle has sides of length 6 cm and 8 cm forming the right angle. What is the length of the hypotenuse?",
+        "label": 1
+    },
+    {
+        "text": "Find the derivative of f(x) = sin(x²).",
+        "label": 1
+    },
+    {
+        "text": "The value of sin²(θ) + cos²(θ) is always 1.",
+        "label": 0
+    },
+    {
+        "text": "Evaluate the definite integral of 2x from x=1 to x=3.",
+        "label": 1
+    },
+    {
+        "text": "The derivative of a constant function is zero.",
+        "label": 0
+    },
+    {
+        "text": "If tan(A) = 4/3, find the value of sec(A).",
+        "label": 1
+    },
+    {
+        "text": "The chain rule is used to differentiate a composite function.",
+        "label": 0
+    },
+    {
+        "text": "What is the second derivative of y = e^(3x)?",
+        "label": 1
+    },
+    {
+        "text": "I will be traveling to the mountains next month.",
+        "label": 0
+    },
+    {
+        "text": "Solve for x in the equation log₂(x) + log₂(x-2) = 3.",
+        "label": 1
+    },
+    {
+        "text": "A vector quantity has both magnitude and direction.",
+        "label": 0
+    },
+    {
+        "text": "Find the local maxima and minima of the function f(x) = x³ - 6x² + 5.",
+        "label": 1
+    },
+    {
+        "text": "Classical music often has a complex structure.",
+        "label": 0
+    },
+    {
+        "text": "Differentiate y = (sin(x))/(x) using the quotient rule.",
+        "label": 1
+    },
+    {
+        "text": "A polygon with eight sides is called an octagon.",
+        "label": 0
+    },
+    {
+        "text": "From a tower 60 meters high, the angle of depression to a point on the ground is 30°. How far is the point from the base of the tower?",
+        "label": 1
+    },
+    {
+        "text": "My weekly schedule is very busy this month.",
+        "label": 0
+    },
+    {
+        "text": "What is the integral of cos(x) dx?",
+        "label": 1
+    },
+    {
+        "text": "The fundamental theorem of calculus relates differentiation and integration.",
+        "label": 0
+    },
+    {
+        "text": "Find dy/dx for the implicit function x² + y² = 25.",
+        "label": 1
+    },
+    {
+        "text": "The local library is hosting a book fair next weekend.",
+        "label": 0
+    },
+    {
+        "text": "Convert 135° into radians.",
+        "label": 1
+    },
+    {
+        "text": "The product rule is used to find the derivative of a product of two functions.",
+        "label": 0
+    },
+    {
+        "text": "Find the derivative of f(x) = tan⁻¹(x).",
+        "label": 1
+    },
+    {
+        "text": "We are planning a surprise party for our friend.",
+        "label": 0
+    },
+    {
+        "text": "Calculate the area enclosed by the curve y = 4 - x² and the x-axis.",
+        "label": 1
+    },
+    {
+        "text": "The derivative of eˣ is eˣ.",
+        "label": 0
+    },
+    {
+        "text": "A ladder is leaning against a wall. If its angle of inclination with the ground is 60° and the foot of the ladder is 2m from the wall, find the length of the ladder.",
+        "label": 1
+    },
+    {
+        "text": "I enjoy watching documentaries about wildlife.",
+        "label": 0
+    },
+    {
+        "text": "Find the derivative of y = log(sec(x)).",
+        "label": 1
+    },
+    {
+        "text": "The identity tan(x) = sin(x)/cos(x) is fundamental in trigonometry.",
+        "label": 0
+    },
+    {
+        "text": "Evaluate the limit of (x²-1)/(x-1) as x approaches 1.",
+        "label": 1
+    },
+    {
+        "text": "The new cafe serves organic coffee and pastries.",
+        "label": 0
+    },
+    {
+        "text": "What is the rate of change of the area of a circle with respect to its radius when the radius is 5 cm?",
+        "label": 1
+    },
+    {
+        "text": "An inflection point is where the concavity of a function changes.",
+        "label": 0
+    },
+    {
+        "text": "Find the equation of the tangent line to the curve y = x² at the point (2, 4).",
+        "label": 1
+    },
+    {
+        "text": "The team is practicing hard for the upcoming championship.",
+        "label": 0
+    },
+    {
+        "text": "Solve the differential equation dy/dx = 2x.",
+        "label": 1
+    },
+    {
+        "text": "A function is continuous if it has no breaks, jumps, or holes.",
+        "label": 0
+    },
+    {
+        "text": "If f(x) = x² and g(x) = x + 1, find the derivative of f(g(x)).",
+        "label": 1
+    },
+    {
+        "text": "I need to get my car's oil changed soon.",
+        "label": 0
+    },
+    {
+        "text": "What is the volume of the solid generated by revolving the region bounded by y = √x, x = 4, and the x-axis about the x-axis?",
+        "label": 1
+    },
+    {
+        "text": "The secant of an angle is the reciprocal of the cosine.",
+        "label": 0
+    },
+    {
+        "text": "Find the derivative of y = xˣ.",
+        "label": 1
+    },
+    {
+        "text": "The charity event was a great success.",
+        "label": 0
+    },
+    {
+        "text": "A particle moves along a line so that its position at time t is s(t) = t³ - 6t² + 9t. Find the velocity at time t=2.",
+        "label": 1
+    },
+    {
+        "text": "The integral of a function represents the area under its curve.",
+        "label": 0
+    },
+    {
+        "text": "Simplify the trigonometric expression: sin(2θ) / (2sin(θ)).",
+        "label": 1
+    },
+    {
+        "text": "The conference will be held in a different city this year.",
+        "label": 0
+    },
+    {
+        "text": "Find the integral of tan²(x) dx.",
+        "label": 1
+    },
+    {
+        "text": "The slope of a horizontal line is zero.",
+        "label": 0
+    },
+    {
+        "text": "At what points is the function f(x) = |x-5| not differentiable?",
+        "label": 1
+    },
+    {
+        "text": "My garden is full of blooming flowers this spring.",
+        "label": 0
+    },
+    {
+        "text": "If sin(θ) = 5/13 and θ is in the second quadrant, what is the value of cos(θ)?",
+        "label": 1
+    },
+    {
+        "text": "The angles in an equilateral triangle are all 60 degrees.",
+        "label": 0
+    },
+    {
+        "text": "What is the derivative of f(x) = arcsin(x)?",
+        "label": 1
+    },
+    {
+        "text": "I am looking forward to the holiday break.",
+        "label": 0
+    },
+    {
+        "text": "Find the length of the curve y = (2/3)x^(3/2) from x = 0 to x = 3.",
+        "label": 1
+    },
+    {
+        "text": "The cotangent function is the reciprocal of the tangent function.",
+        "label": 0
+    },
+    {
+        "text": "Verify the identity: 1 + tan²(x) = sec²(x).",
+        "label": 1
+    },
+    {
+        "text": "The museum has a new exhibit on ancient Egypt.",
+        "label": 0
+    },
+    {
+        "text": "Find the Taylor series for f(x) = eˣ centered at a = 0.",
+        "label": 1
+    },
+    {
+        "text": "L'Hôpital's Rule is used to evaluate limits involving indeterminate forms.",
+        "label": 0
+    },
+    {
+        "text": "A can do a piece of work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is:",
+        "label": 1
+    },
+    {
+        "text": "Factor the polynomial x³ - 27.",
+        "label": 1
+    },
+    {
+        "text": "The chemical formula for table salt is NaCl.",
+        "label": 0
+    },
+    {
+        "text": "A boat travels upstream from B to A and downstream from A to B in 3 hours. If the speed of the boat in still water is 9 km/hr and the speed of the current is 3 km/hr, then what is the distance between A and B?",
+        "label": 1
+    },
+    {
+        "text": "The mean of a set of numbers is the sum of the numbers divided by the count of the numbers.",
+        "label": 0
+    },
+    {
+        "text": "Solve the system of equations: 3x - 5y = 19 and -7x + 3y = -1.",
+        "label": 1
+    },
+    {
+        "text": "Photosynthesis is a process used by plants to convert light energy into chemical energy.",
+        "label": 0
+    },
+    {
+        "text": "What is the 20th term of the arithmetic sequence 5, 8, 11, 14, ...?",
+        "label": 1
+    },
+    {
+        "text": "I have to catch an early flight tomorrow morning.",
+        "label": 0
+    },
+    {
+        "text": "Find the sum of the first 10 terms of a geometric series whose first term is 3 and common ratio is 2.",
+        "label": 1
+    },
+    {
+        "text": "An irrational number cannot be expressed as a ratio of two integers.",
+        "label": 0
+    },
+    {
+        "text": "A card is drawn from a well-shuffled deck of 52 cards. What is the probability that the card is a queen or a club?",
+        "label": 1
+    },
+    {
+        "text": "The Earth's atmosphere is composed of several layers.",
+        "label": 0
+    },
+    {
+        "text": "How many arrangements can be made out of the letters of the word 'ENGINEERING'?",
+        "label": 1
+    },
+    {
+        "text": "The median is the middle value in a sorted list of numbers.",
+        "label": 0
+    },
+    {
+        "text": "A motorboat, whose speed is 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. What is the speed of the stream?",
+        "label": 1
+    },
+    {
+        "text": "The new community center offers a variety of classes.",
+        "label": 0
+    },
+    {
+        "text": "Find the roots of the quadratic equation 2x² - 7x + 3 = 0.",
+        "label": 1
+    },
+    {
+        "text": "In a parallelogram, opposite sides are equal in length.",
+        "label": 0
+    },
+    {
+        "text": "Two pipes A and B can fill a tank in 20 and 30 minutes respectively. If both the pipes are used together, then how long will it take to fill the tank?",
+        "label": 1
+    },
+    {
+        "text": "The meeting has been rescheduled for next Tuesday.",
+        "label": 0
+    },
+    {
+        "text": "Find the volume of a hemisphere with a radius of 7 cm.",
+        "label": 1
+    },
+    {
+        "text": "The commutative property states that a + b = b + a.",
+        "label": 0
+    },
+    {
+        "text": "The surface areas of two spheres are in the ratio 16:49. Find the ratio of their volumes.",
+        "label": 1
+    },
+    {
+        "text": "The local government is planning to build a new park.",
+        "label": 0
+    },
+    {
+        "text": "Simplify the expression (a³b⁻²) / (a⁻¹b⁴).",
+        "label": 1
+    },
+    {
+        "text": "The determinant of a singular matrix is zero.",
+        "label": 0
+    },
+    {
+        "text": "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+        "label": 1
+    },
+    {
+        "text": "I really enjoyed the concert last night.",
+        "label": 0
+    },
+    {
+        "text": "Find the determinant of the matrix: [[5, -2], [3, 1]].",
+        "label": 1
+    },
+    {
+        "text": "The binomial theorem provides a formula for expanding powers of a binomial.",
+        "label": 0
+    },
+    {
+        "text": "The population of a town increased from 1,75,000 to 2,62,500 in a decade. What is the average percent increase of population per year?",
+        "label": 1
+    },
+    {
+        "text": "I'm going to the gym after work.",
+        "label": 0
+    },
+    {
+        "text": "What is the probability of getting a doublet when two dice are thrown?",
+        "label": 1
+    },
+    {
+        "text": "The number e is an important mathematical constant that is the base of the natural logarithm.",
+        "label": 0
+    },
+    {
+        "text": "A man buys a cycle for ₹1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+        "label": 1
+    },
+    {
+        "text": "The weather has been unusually warm this week.",
+        "label": 0
+    },
+    {
+        "text": "Find the inverse of the function f(x) = 2x + 3.",
+        "label": 1
+    },
+    {
+        "text": "The associative property states that (a + b) + c = a + (b + c).",
+        "label": 0
+    },
+    {
+        "text": "A committee of 5 is to be formed out of 6 gents and 4 ladies. In how many ways can this be done when each committee includes at least one lady?",
+        "label": 1
+    },
+    {
+        "text": "The construction on the new bridge is almost complete.",
+        "label": 0
+    },
+    {
+        "text": "Solve the inequality: |2x - 1| ≥ 7.",
+        "label": 1
+    },
+    {
+        "text": "The mode is the value that appears most frequently in a data set.",
+        "label": 0
+    },
+    {
+        "text": "What is the equation of the line that passes through the point (2, -3) and has a slope of 4?",
+        "label": 1
+    },
+    {
+        "text": "I need to file my taxes before the deadline.",
+        "label": 0
+    },
+    {
+        "text": "Find the sum to infinity of the geometric series 1 + 1/2 + 1/4 + 1/8 + ...",
+        "label": 1
+    },
+    {
+        "text": "A rational number is any number that can be expressed as the quotient or fraction p/q of two integers.",
+        "label": 0
+    },
+    {
+        "text": "If a and b are the roots of the equation x² - 5x + 6 = 0, find the value of 1/a + 1/b.",
+        "label": 1
+    },
+    {
+        "text": "The store is having a sale on all winter clothing.",
+        "label": 0
+    },
+    {
+        "text": "Find the number of sides of a regular polygon whose interior angle is 156°.",
+        "label": 1
+    },
+    {
+        "text": "The intersection of two sets contains elements that are common to both sets.",
+        "label": 0
+    },
+    {
+        "text": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. What is the speed of the train?",
+        "label": 1
+    },
+    {
+        "text": "My family is planning a vacation to the beach this summer.",
+        "label": 0
+    },
+    {
+        "text": "What is the centroid of a triangle with vertices at (2, 3), (4, 7), and (9, 5)?",
+        "label": 1
+    },
+    {
+        "text": "The union of two sets contains all elements from both sets.",
+        "label": 0
+    },
+    {
+        "text": "A works twice as fast as B. If B can complete a work in 12 days independently, how many days will A and B together take to complete the work?",
+        "label": 1
+    },
+    {
+        "text": "The city council approved the new budget last night.",
+        "label": 0
+    },
+    {
+        "text": "Find the standard deviation of the numbers 2, 3, 5, 7, 8.",
+        "label": 1
+    },
+    {
+        "text": "The range of a data set is the difference between the highest and lowest values.",
+        "label": 0
+    },
+    {
+        "text": "Find the equation of the circle with center (3, -2) and radius 4.",
+        "label": 1
+    },
+    {
+        "text": "I am taking a course on digital photography.",
+        "label": 0
+    }
+]
